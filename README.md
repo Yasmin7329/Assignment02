@@ -1,9 +1,11 @@
 # Assignment02
 
 Write a program which describes real-world model of student’s group project. The real-world model should have the following objects: Student, Group, and Project. The properties of the objects are:
+
 • Student: Name, Identification student number (ID), and Group
 • Group: Number of students, Predefined Name of the Group (small, medium , or advance), and Project
 • Project: Name of the Project, Status, and Description
+
 A student can be member in only one group and only one project can be assigned to the group.
 1.) Design: Define and design class Student, class Group, and class Project with all necessary fileds, properties, constructors, and methods.
 2.) Implementation: Write C# implementation for classes defined in 1. Each class has to be defined in different namespace. For example, class Student has to be defined in the student namespace, class Project in project namespace, and class Group in group namespace.
