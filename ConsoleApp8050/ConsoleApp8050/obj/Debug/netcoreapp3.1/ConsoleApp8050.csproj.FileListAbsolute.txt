@@ -1,0 +1,13 @@
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\bin\Debug\netcoreapp3.1\ConsoleApp8050.exe
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\bin\Debug\netcoreapp3.1\ConsoleApp8050.deps.json
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\bin\Debug\netcoreapp3.1\ConsoleApp8050.runtimeconfig.json
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\bin\Debug\netcoreapp3.1\ConsoleApp8050.runtimeconfig.dev.json
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\bin\Debug\netcoreapp3.1\ConsoleApp8050.dll
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\bin\Debug\netcoreapp3.1\ConsoleApp8050.pdb
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\obj\Debug\netcoreapp3.1\ConsoleApp8050.csprojAssemblyReference.cache
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\obj\Debug\netcoreapp3.1\ConsoleApp8050.AssemblyInfoInputs.cache
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\obj\Debug\netcoreapp3.1\ConsoleApp8050.AssemblyInfo.cs
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\obj\Debug\netcoreapp3.1\ConsoleApp8050.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\obj\Debug\netcoreapp3.1\ConsoleApp8050.dll
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\obj\Debug\netcoreapp3.1\ConsoleApp8050.pdb
+C:\Users\yasmi\source\repos\ConsoleApp8050\ConsoleApp8050\obj\Debug\netcoreapp3.1\ConsoleApp8050.genruntimeconfig.cache
